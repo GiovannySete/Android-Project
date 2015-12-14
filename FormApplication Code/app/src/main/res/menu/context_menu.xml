@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:theme="@android:style/Theme.Holo.Light.Dialog"><!-- xmlns:tools="http://schemas.android.com/tools"
+     tools:context=".MainActivity"-->
+
+    <item android:id="@+id/data" android:title="Data"></item>
+    <item android:id="@+id/texto" android:title="Texto"></item>
+    <item android:id="@+id/numerico" android:title="Numérico"></item>
+    <item android:id="@+id/localizacao" android:title="Localização"></item>
+
+</menu>

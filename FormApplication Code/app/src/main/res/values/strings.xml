@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormApp</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_novo">Novo campo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Adicionar</string>
+    <string name="salvar">Salvar</string>
+    <string name="delete_db">Limpar banco de dados</string>
+</resources>
